@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VishalGhai/Calculator.git/static/css/main.c054f3f9.chunk.css",
+    "main.js": "/VishalGhai/Calculator.git/static/js/main.b1f83613.chunk.js",
+    "main.js.map": "/VishalGhai/Calculator.git/static/js/main.b1f83613.chunk.js.map",
+    "runtime-main.js": "/VishalGhai/Calculator.git/static/js/runtime-main.33594634.js",
+    "runtime-main.js.map": "/VishalGhai/Calculator.git/static/js/runtime-main.33594634.js.map",
+    "static/js/2.9f9ea4e3.chunk.js": "/VishalGhai/Calculator.git/static/js/2.9f9ea4e3.chunk.js",
+    "static/js/2.9f9ea4e3.chunk.js.map": "/VishalGhai/Calculator.git/static/js/2.9f9ea4e3.chunk.js.map",
+    "static/js/3.a41885ef.chunk.js": "/VishalGhai/Calculator.git/static/js/3.a41885ef.chunk.js",
+    "static/js/3.a41885ef.chunk.js.map": "/VishalGhai/Calculator.git/static/js/3.a41885ef.chunk.js.map",
+    "index.html": "/VishalGhai/Calculator.git/index.html",
+    "static/css/main.c054f3f9.chunk.css.map": "/VishalGhai/Calculator.git/static/css/main.c054f3f9.chunk.css.map",
+    "static/js/2.9f9ea4e3.chunk.js.LICENSE.txt": "/VishalGhai/Calculator.git/static/js/2.9f9ea4e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33594634.js",
+    "static/js/2.9f9ea4e3.chunk.js",
+    "static/css/main.c054f3f9.chunk.css",
+    "static/js/main.b1f83613.chunk.js"
+  ]
+}
