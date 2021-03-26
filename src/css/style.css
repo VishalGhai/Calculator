@@ -1,0 +1,95 @@
+body{
+    padding:0px 20px;
+}
+.container{
+    height: 600px;
+    width: 320px;
+    margin: auto;
+    /* top:50%; */
+    /* position: absolute; */
+    /* justify-content: center; */
+    /* border: 1px solid black; */
+    margin-block: 7%;
+    background-color: #a8dbdec2;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgb(222, 247, 241);
+}
+
+.title{
+    text-align: center;
+    font-family:'Kiwi Maru', serif;
+    background-color: #1d3557;
+    color: #fff;
+    border-radius:20px 20px 0px 0px;
+}
+
+.display{
+    margin: auto;
+    margin-inline: 10px;
+    width: 92%;
+    height: 25%;
+    position: relative;
+    /* border: 1px solid black; */
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.displaytext{
+    text-align: right;
+    bottom:0;
+    right: 0;
+    position: absolute;
+    /* margin-inline:10px; */
+    font-size:40px;
+    font-weight: 700;
+    color:#1d3557;
+    font-family: 'Kiwi Maru', serif;
+}
+
+.functioncontainer{
+    /* border:1px solid black; */
+    height:auto;
+    margin-top:10px;
+}
+
+.buttoncontainer{
+    float:left;
+    width:25%;
+    text-align:center;
+    /* border:1px solid black; */
+}
+
+.btn button{
+    margin: auto;
+    padding-block: 5px;
+    padding-bottom:10px;
+    padding-inline:20px;
+    font-size:25px;
+    font-weight:700;
+    margin-block: 10px;
+    border-radius: 10px;
+    border:none;
+    /* background-color:#f1faee; */
+    /* background-color: "{this.props.bgColor}"; */
+    outline: none;
+    font-family:"Kiwi Maru", serif;
+}
+
+.btn button:active{
+    box-shadow: inset 0px 0px 5px lightgray;
+}
+
+.clearcolor{
+    color:#e63946;
+    background-color:#ffbdc2d7;
+}
+
+.defaultcolor{
+    background-color:#f1faee;
+    color: black;
+}
+
+.functioncolor{
+    background-color:#1d3557;
+    color:white;
+}
