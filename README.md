@@ -1,11 +1,8 @@
 # Calculator React App
+React web app.
 
-## Available Scripts
+### Try it now - <a href="https://vishalghai.github.io/Calculator/">Click Here !</a>
 
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<br><br>
+![Visualization](https://github.com/VishalGhai/Calculator/blob/master/Visual.gif)
 
